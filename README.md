@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eliel
 
-<!--
-**elielroberto/elielroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia desde a infância e sempre tive grande interesse por hardware e desenvolvimento de sistemas.  
+Atualmente atuo há **+1 ano e 5 meses como Desenvolvedor Full Stack .NET (C#)**, com foco em **desenvolvimento web**.
 
-Here are some ideas to get you started:
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Universidade Municipal de São Caetano do Sul** e estou em constante evolução, buscando escrever código limpo, escalável e bem estruturado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+
+- 💻 Desenvolvedor Full Stack .NET (C#)
+- 🌐 Especialidade em Desenvolvimento Web
+- 🧠 Alto conhecimento em Hardware
+- 🎓 Formado em ADS pela USCS
+- 💍 Casado
+- 📚 Estudando e evoluindo todos os dias
+
+---
+
+## Tecnologias e ferramentas
+
+### 🔹 Backend
+
+- C#
+- .NET / ASP.NET
+- Web API
+- APIs REST
+
+### 🔹 Frontend
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+
+### 🔹 Banco de Dados
+
+- SQL Server
+- PostgreSQL
+
+### 🔹 DevOps / Versionamento
+
+- Git
+- GitHub
+- **Azure DevOps (Repos, Boards, Pipelines)**
+- Docker
+
+### 🔹 Ambiente e Infra
+
+- Windows
+- Performance e otimização
+- Integrações entre sistemas
+
+### 🔹 Hardware
+
+- Montagem e upgrade de PCs
+- GPUs, CPUs, fontes e compatibilidade
+- Análise de performance
+
+## Objetivo
+
+Meu objetivo é crescer como desenvolvedor, participar de projetos desafiadores e contribuir com soluções eficientes, sempre buscando boas práticas, performance e qualidade no código.
+
+---
+
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/elielroberto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elielrcosta/)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:eliel.robertocosta@outlook.com)
+[![Website](https://img.shields.io/badge/Site-Visitar-green?style=for-the-badge&logo=google-chrome)](https://violet-armadillo-645244.hostingersite.com/)
