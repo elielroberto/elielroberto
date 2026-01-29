@@ -47,12 +47,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 - **Azure DevOps (Repos, Boards, Pipelines)**
 - Docker
 
-### 🔹 Ambiente e Infra
-
-- Windows
-- Performance e otimização
-- Integrações entre sistemas
-
 ### 🔹 Hardware
 
 - Montagem e upgrade de PCs
