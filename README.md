@@ -38,6 +38,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 ### 🔹 Banco de Dados
 
 - SQL Server
+- MySQL
 - PostgreSQL
 
 ### 🔹 DevOps / Versionamento
