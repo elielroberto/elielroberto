@@ -53,13 +53,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 - GPUs, CPUs, fontes e compatibilidade
 - Análise de performance
 
-## Objetivo
-
-Meu objetivo é crescer como desenvolvedor, participar de projetos desafiadores e contribuir com soluções eficientes, sempre buscando boas práticas, performance e qualidade no código.
-
 ---
-
-## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/elielroberto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elielrcosta/)
