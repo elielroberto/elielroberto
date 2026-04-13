@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eliel
+#  Olá, eu sou o Eliel
 
 Sou apaixonado por tecnologia desde a infância e sempre tive grande interesse por hardware e desenvolvimento de sistemas.  
 Atualmente atuo há **+1 ano e 5 meses como Desenvolvedor Full Stack .NET (C#)**, com foco em **desenvolvimento web**.
