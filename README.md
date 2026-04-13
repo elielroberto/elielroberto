@@ -39,7 +39,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 
 - SQL Server
 - MySQL
-- PostgreSQL
 
 ### 🔹 DevOps / Versionamento
 
@@ -47,6 +46,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 - GitHub
 - **Azure DevOps (Repos, Boards, Pipelines)**
 - Docker
+
+### 🔹 Testes
+
+- xUnit - testes unitarios 
+
 
 ### 🔹 Hardware
 
