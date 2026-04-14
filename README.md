@@ -34,6 +34,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 - JavaScript
 - jQuery
 - Bootstrap
+- React
 
 ### 🔹 Banco de Dados
 
