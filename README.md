@@ -7,7 +7,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 
 ## 🌐 Meu Portfólio
 
-[![Portfolio](https://img.shields.io/badge/Acessar%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://elielroberto.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Acessar%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eliel-costa.vercel.app/)
 ---
 
 ## Sobre mim
