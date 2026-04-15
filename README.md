@@ -5,7 +5,7 @@ Atualmente atuo há **+1 ano e 5 meses como Desenvolvedor Full Stack .NET (C#)**
 
 Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Universidade Municipal de São Caetano do Sul** e estou em constante evolução, buscando escrever código limpo, escalável e bem estruturado.
 
-## 🌐 Meu Portfólio
+##  Meu Portfólio
 
 [![Portfolio](https://img.shields.io/badge/Acessar%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eliel-costa.vercel.app/)
 ---
