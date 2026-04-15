@@ -1,21 +1,22 @@
 #  Olá, eu sou o Eliel
 
 Sou apaixonado por tecnologia desde a infância e sempre tive grande interesse por hardware e desenvolvimento de sistemas.  
-Atualmente atuo há **+1 ano e 5 meses como Desenvolvedor Full Stack .NET (C#)**, com foco em **desenvolvimento web**.
+Desenvolvedor Full Stack .NET (C#), com foco em aplicações web escaláveis e APIs REST.
+Atuo há mais de 1 ano e 8 meses desenvolvendo soluções reais utilizando ASP.NET Core, Entity Framework e React, sempre buscando boas práticas, código limpo e arquitetura bem estruturada.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Universidade Municipal de São Caetano do Sul** e estou em constante evolução, buscando escrever código limpo, escalável e bem estruturado.
-
+🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) pela USCS
+ Em constante evolução, estudando e aplicando melhorias contínuas no desenvolvimento
+ 
 ##  Meu Portfólio
-
 [![Portfolio](https://img.shields.io/badge/Acessar%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eliel-costa.vercel.app/)
 ---
 
 ## Sobre mim
 
 - 💻 Desenvolvedor Full Stack .NET (C#)
-- 🌐 Especialidade em Desenvolvimento Web
-- 🧠 Alto conhecimento em Hardware
-- 🎓 Formado em ADS pela USCS
+- 🌐 Foco em desenvolvimento web
+- ⚙️ Experiência com APIs REST e sistemas completos
+- 🧠 Conhecimento sólido em hardware e performance
 - 💍 Casado
 - 📚 Estudando e evoluindo todos os dias
 
@@ -26,7 +27,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 ### 🔹 Backend
 
 - C#
-- .NET / ASP.NET
+- .NET / ASP.NET Core
 - Web API
 - APIs REST
 
@@ -35,9 +36,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela USCS - Univer
 - HTML
 - CSS
 - JavaScript
+- React
 - jQuery
 - Bootstrap
-- React
 
 ### 🔹 Banco de Dados
 
